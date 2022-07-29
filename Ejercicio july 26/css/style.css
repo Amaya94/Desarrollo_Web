@@ -1,0 +1,153 @@
+
+body{
+    background-color: purple;
+}
+
+#head1 {
+    background: lime;
+    width: 95%;
+    height: 50%;
+    margin: 10px;
+    padding: 5px;
+    border: 5px;
+    border: 2px white solid;
+}
+
+#p1 {
+    font-family: Arial;
+    font-size: 20 px;
+    text-align: center;
+}
+
+#nav1 {
+    background-color: white;
+    width: 90%;
+    height: 50px;
+    margin: 5px;
+    border: 2px black solid;
+    margin-left: 5%;
+}
+
+#pa2 {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+
+#sec1 {
+    background-color: orangered;
+    width: 55%;
+    height: 400px;
+    margin: 10px;
+    display: inline-block;
+    border: 2px white solid;
+    padding: 5px;
+}
+
+#head2 {
+    width: 90%;
+    height: 15%;
+    background-color: lime;
+    margin: 5px;
+    margin-left: 35px;
+    border: 2px white solid;
+   
+}
+
+article {
+    background-color: skyblue;
+    width: 90%;
+    height: 75%;
+    margin: 25px;
+    margin-left: 35px;
+    border: 2px white solid;
+
+}
+
+#head3 {
+    width: 90%;
+    height: 15%;
+    background-color: lime;
+    margin-top: -10px;
+    margin-left: 30px;
+    border: 2px white solid;
+}
+
+#para1 {
+    width: 90%;
+    height: 15%;
+    background-color: orange;
+    margin-left: 30px;
+    margin-top: 10px; 
+    border: 2px white solid;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+
+#para2 {
+    width: 50%;
+    height: 15%;
+    background-color: orange;
+    margin-left: 30px;
+    border: 2px white solid;
+    display: inline-block;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+
+aside {
+    width: 30%;
+    height: 15%;
+    background-color: white;
+    border: 2px black solid;
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-left: 60px;
+}
+
+#foot1 {
+    width: 90%;
+    height: 15%;
+    background-color: white;
+    margin-left: 30px;
+    border: 2px black solid;
+}
+
+#sec2 {
+    background-color: orangered;
+    width: 30%;
+    height: 400px;
+    margin: 10px;
+    margin-left: 100px;
+    padding: 5px;
+    display: inline-block;
+    border: 2px white solid;
+}
+
+#head4 {
+    width: 90%;
+    height: 15%;
+    background-color: lime;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px white solid;
+}
+
+#nav2 {
+    width: 90%;
+    height: 70%;
+    background-color: white;
+    border: 2px black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#foot2 {
+    background-color: white;
+    width: 96%;
+    height: 50px;
+    margin: 10px;
+    border: 2px black solid;
+}
